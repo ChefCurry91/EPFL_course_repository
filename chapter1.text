@@ -5,3 +5,7 @@ git init => Track what happens in this folder
 Committing a file is synonymous with taking a snapshot of the state of a file or backing up a file
 
 Git add 'xxx' => tell Git that should track the change we make to it
+
+Git commit -m "Added the first line of the first chapter" => git commit -m
+
+Commit takes parameter -m, which means add a message to my commit. 
